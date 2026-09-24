@@ -16,7 +16,7 @@
 <div style="background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); padding: 40px 30px; border-radius: 24px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #ffffff; margin-bottom: 40px; text-align: center; border: 1px solid rgba(255,255,255,0.05); box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
   <span style="background: linear-gradient(90deg, #38bdf8, #818cf8); padding: 8px 20px; border-radius: 50px; font-size: 14px; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: #0f172a;">Внутренний Мониторинг вуза</span>
   <h1 style="font-size: 36px; font-weight: 800; color: #ffffff; margin: 20px 0 10px 0; letter-spacing: -1px;">🏛️ ЦИФРОВОЙ ДАШБОРД ОТДЕЛА КАЧЕСТВА</h1>
-  <p style="font-size: 16px; color: #94a3b8; max-width: 800px; margin: 0 auto 25px auto; line-height: 1.6;">Интерактивная动态 панель мониторинга стратегических и операционных процессов департамента аккредитации вуза.</p>
+  <p style="font-size: 16px; color: #94a3b8; max-width: 800px; margin: 0 auto 25px auto; line-height: 1.6;">Интерактивная панель мониторинга стратегических и операционных процессов отдела качества аккредитации и лицензировании.</p>
   <div style="font-size: 14px; color: #e2e8f0; font-weight: bold; background: rgba(255,255,255,0.03); display: inline-block; padding: 10px 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.08);">
     🟢 Статус: <span style="color: #38bdf8;">Активна</span> &nbsp;|&nbsp; 📅 Академический год: <span style="color: #38bdf8;">2026/2027</span> &nbsp;|&nbsp; 🎯 Фокус: <span style="color: #38bdf8;">ESG стандарты</span>
   </div>
