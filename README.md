@@ -88,7 +88,7 @@
 </div>
 
 <h2 style="color: #ffffff; border-bottom: 1px solid #1e293b; padding-bottom: 10px; font-size: 24px; margin-top: 40px;">🔄 Непрерывные операционные процессы (Цикл PDCA)</h2>
-<p style="color: #94a3b8; margin-bottom: 25px;"><i>Системная текущая деятельность департамента по поддержанию стандартов качества.</i></p>
+<p style="color: #94a3b8; margin-bottom: 25px;"><i>Системная текущая деятельность отдела по поддержанию стандартов качества.</i></p>
 
 <div style="border: 1px solid #1e293b; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.2); background: #111827;">
   <table width="100%" style="border-collapse: collapse; text-align: left; margin: 0; border: none; font-family: -apple-system, sans-serif;">
