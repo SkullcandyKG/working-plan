@@ -90,21 +90,76 @@
     <div style="background: rgba(239,68,68,0.05); padding: 12px; border-radius: 12px; font-size: 14px; font-weight: bold; color: #ffffff; border: 1px solid rgba(239,68,68,0.2);">⚠️ Срок сдачи пакета документов: <span style="color: #ef4444;">До 30.09.2026</span></div>
   </div>
 </div>
-<h2 style="color: #ffffff; border-bottom: 1px solid #1e293b; padding-bottom: 10px; font-size: 24px;">🔄 Непрерывные операционные процессы (Цикл PDCA)</h2>
-<p style="color: #94a3b8; margin-bottom: 25px;">*Системная текущая деятельность департамента по поддержанию стандартов качества.*</p>
+<h2 style="color: #ffffff; border-bottom: 1px solid #1e293b; padding-bottom: 10px; font-size: 24px; margin-top: 40px;">🔄 Непрерывные операционные процессы (Цикл PDCA)</h2>
+<p style="color: #94a3b8; margin-bottom: 25px;"><i>Системная текущая деятельность департамента по поддержанию стандартов качества.</i></p>
 
-| Код | Наименование процесса и содержание текущей задачи | Регламент | Текущий операционный статус |
-| :---: | :--- | :---: | :--- |
-| **06** | **Контроль посещаемости**<br><sub>Автоматический ежедневный мониторинг журналов (Старт с 28.08.2026)</sub> | 🔄 Ежедневно | 🟢 **Выполняется штатно** |
-| **07** | **Внутренний рейтинг ППС**<br><sub>Сбор ключевых индикаторов профессорско-преподавательского состава по кафедрам</sub> | 📅 По графику | 🟡 **В ожидании периода** |
-| **08** | **Постмониторинг НААР**<br><sub>Аудит направлений «Институциональный контроль» и «Ветеринария»</sub> | 📋 План НААР | 🟡 **В ожидании комиссии** |
-| **09** | **Мониторинг обучения КПК**<br><sub>Аудит базы сертификатов «Педагогика и психология высшей школы» у новых ППС</sub> | 🔄 Регулярно | 🔵 **Процесс верификации** |
-| **10** | **Экосистема «Антиплагиат»**<br><sub>Проверка квалификационных работ и сквозное администрирование записей вуза</sub> | ⚡ Бессрочно | 🟢 **Доступ активен (+)** |
-| **11** | **Лицензионный контроль**<br><sub>Проверка соответствия материально-технической базы лицензионным требованиям нормативных актов</sub> | 📅 Ежемесячно | 🟢 **Полное соответствие (++)** |
-| **12** | **Анкетирование и Ящик доверия**<br><sub>Сбор анонимной обратной связи от студентов по удовлетворенности качеством обучения</sub> | 📋 Поквартально | 🟡 **Разработка опросников** |
-| **13** | **Микроквалификации**<br><sub>Проектирование коротких профессиональных треков и интеграция их в общие учебные планы</sub> | 🔄 Внедрение | 🔵 **Стадия проектирования** |
+<div style="border: 1px solid #1e293b; border-radius: 16px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.2); background: #111827;">
+  <table width="100%" style="border-collapse: collapse; text-align: left; margin: 0; border: none; font-family: -apple-system, sans-serif;">
+    <thead>
+      <tr style="background: #1f2937; border-bottom: 2px solid #1e293b;">
+        <th style="padding: 16px 20px; color: #ffffff; font-weight: 700; font-size: 14px; width: 60px; text-align: center; border: none !important;">Код</th>
+        <th style="padding: 16px 20px; color: #ffffff; font-weight: 700; font-size: 14px; border: none !important;">Наименование процесса и содержание текущей задачи</th>
+        <th style="padding: 16px 20px; color: #ffffff; font-weight: 700; font-size: 14px; width: 180px; border: none !important;">Регламент</th>
+        <th style="padding: 16px 20px; color: #ffffff; font-weight: 700; font-size: 14px; width: 220px; text-align: center; border: none !important;">Текущий операционный статус</th>
+      </tr>
+    </thead>
+    <tbody style="color: #e2e8f0; font-size: 14px;">
+      <tr style="border-bottom: 1px solid #1e293b; background: #111827;">
+        <td style="padding: 16px 20px; text-align: center; font-weight: bold; color: #64748b; border: none !important;">06</td>
+        <td style="padding: 16px 20px; border: none !important;"><b style="color: #ffffff; font-size: 15px;">Контроль посещаемости</b><br><span style="font-size: 12px; color: #94a3b8;">Автоматический ежедневный мониторинг журналов (Старт с 28.08.2026)</span></td>
+        <td style="padding: 16px 20px; color: #94a3b8; border: none !important;">🔄 Ежедневно</td>
+        <td style="padding: 16px 20px; text-align: center; border: none !important;"><span style="background: rgba(16,185,129,0.1); color: #10b981; padding: 6px 12px; border-radius: 8px; font-size: 12px; font-weight: 700; display: inline-block; width: 160px; border: 1px solid rgba(16,185,129,0.2);">🟢 Выполняется штатно</span></td>
+      </tr>
+      <tr style="border-bottom: 1px solid #1e293b; background: #0f172a;">
+        <td style="padding: 16px 20px; text-align: center; font-weight: bold; color: #64748b; border: none !important;">07</td>
+        <td style="padding: 16px 20px; border: none !important;"><b style="color: #ffffff; font-size: 15px;">Внутренний рейтинг ППС</b><br><span style="font-size: 12px; color: #94a3b8;">Сбор ключевых индикаторов профессорско-преподавательского состава по кафедрам</span></td>
+        <td style="padding: 16px 20px; color: #94a3b8; border: none !important;">📅 По графику</td>
+        <td style="padding: 16px 20px; text-align: center; border: none !important;"><span style="background: rgba(251,191,36,0.1); color: #fbbf24; padding: 6px 12px; border-radius: 8px; font-size: 12px; font-weight: 700; display: inline-block; width: 160px; border: 1px solid rgba(251,191,36,0.2);">🟡 В ожидании периода</span></td>
+      </tr>
+      <tr style="border-bottom: 1px solid #1e293b; background: #111827;">
+        <td style="padding: 16px 20px; text-align: center; font-weight: bold; color: #64748b; border: none !important;">08</td>
+        <td style="padding: 16px 20px; border: none !important;"><b style="color: #ffffff; font-size: 15px;">Постмониторинг НААР</b><br><span style="font-size: 12px; color: #94a3b8;">Аудит направлений «Институциональный контроль» и «Ветеринария»</span></td>
+        <td style="padding: 16px 20px; color: #94a3b8; border: none !important;">📋 План НААР</td>
+        <td style="padding: 16px 20px; text-align: center; border: none !important;"><span style="background: rgba(251,191,36,0.1); color: #fbbf24; padding: 6px 12px; border-radius: 8px; font-size: 12px; font-weight: 700; display: inline-block; width: 160px; border: 1px solid rgba(251,191,36,0.2);">🟡 В ожидании комиссии</span></td>
+      </tr>
+      <tr style="border-bottom: 1px solid #1e293b; background: #0f172a;">
+        <td style="padding: 16px 20px; text-align: center; font-weight: bold; color: #64748b; border: none !important;">09</td>
+        <td style="padding: 16px 20px; border: none !important;"><b style="color: #ffffff; font-size: 15px;">Мониторинг обучения КПК</b><br><span style="font-size: 12px; color: #94a3b8;">Аудит базы сертификатов «Педагогика и психология высшей школы» у новых ППС</span></td>
+        <td style="padding: 16px 20px; color: #94a3b8; border: none !important;">🔄 Регулярно</td>
+        <td style="padding: 16px 20px; text-align: center; border: none !important;"><span style="background: rgba(56,189,248,0.1); color: #38bdf8; padding: 6px 12px; border-radius: 8px; font-size: 12px; font-weight: 700; display: inline-block; width: 160px; border: 1px solid rgba(56,189,248,0.2);">🔵 Процесс верификации</span></td>
+      </tr>
+      <tr style="border-bottom: 1px solid #1e293b; background: #111827;">
+        <td style="padding: 16px 20px; text-align: center; font-weight: bold; color: #64748b; border: none !important;">10</td>
+        <td style="padding: 16px 20px; border: none !important;"><b style="color: #ffffff; font-size: 15px;">Экосистема «Антиплагиат»</b><br><span style="font-size: 12px; color: #94a3b8;">Проверка квалификационных работ и сквозное администрирование записей вуза</span></td>
+        <td style="padding: 16px 20px; color: #94a3b8; border: none !important;">⚡ Бессрочно</td>
+        <td style="padding: 16px 20px; text-align: center; border: none !important;"><span style="background: rgba(16,185,129,0.1); color: #10b981; padding: 6px 12px; border-radius: 8px; font-size: 12px; font-weight: 700; display: inline-block; width: 160px; border: 1px solid rgba(16,185,129,0.2);">🟢 Доступ активен (+)</span></td>
+      </tr>
+      <tr style="border-bottom: 1px solid #1e293b; background: #0f172a;">
+        <td style="padding: 16px 20px; text-align: center; font-weight: bold; color: #64748b; border: none !important;">11</td>
+        <td style="padding: 16px 20px; border: none !important;"><b style="color: #ffffff; font-size: 15px;">Лицензионный контроль</b><br><span style="font-size: 12px; color: #94a3b8;">Проверка соответствия материально-технической базы лицензионным требованиям нормативных актов</span></td>
+        <td style="padding: 16px 20px; color: #94a3b8; border: none !important;">📅 Ежемесячно</td>
+        <td style="padding: 16px 20px; text-align: center; border: none !important;"><span style="background: rgba(16,185,129,0.1); color: #10b981; padding: 6px 12px; border-radius: 8px; font-size: 12px; font-weight: 700; display: inline-block; width: 160px; border: 1px solid rgba(16,185,129,0.2);">🟢 Соответствует (++)</span></td>
+      </tr>
+      <tr style="border-bottom: 1px solid #1e293b; background: #111827;">
+        <td style="padding: 16px 20px; text-align: center; font-weight: bold; color: #64748b; border: none !important;">12</td>
+        <td style="padding: 16px 20px; border: none !important;"><b style="color: #ffffff; font-size: 15px;">Анкетирование и Ящик доверия</b><br><span style="font-size: 12px; color: #94a3b8;">Сбор анонимной обратной связи от студентов по удовлетворенности качеством обучения</span></td>
+        <td style="padding: 16px 20px; color: #94a3b8; border: none !important;">📋 Поквартально</td>
+        <td style="padding: 16px 20px; text-align: center; border: none !important;"><span style="background: rgba(251,191,36,0.1); color: #fbbf24; padding: 6px 12px; border-radius: 8px; font-size: 12px; font-weight: 700; display: inline-block; width: 160px; border: 1px solid rgba(251,191,36,0.2);">🟡 Разработка анкет</span></td>
+      </tr>
+      <tr style="background: #0f172a;">
+        <td style="padding: 16px 20px; text-align: center; font-weight: bold; color: #64748b; border: none !important;">13</td>
+        <td style="padding: 16px 20px; border: none !important;"><b style="color: #ffffff; font-size: 15px;">Микроквалификации</b><br><span style="font-size: 12px; color: #94a3b8;">Проектирование коротких профессиональных треков и интеграция их в общие учебные планы</span></td>
+        <td style="padding: 16px 20px; color: #94a3b8; border: none !important;">🔄 Внедрение</td>
+        <td style="padding: 16px 20px; text-align: center; border: none !important;"><span style="background: rgba(56,189,248,0.1); color: #38bdf8; padding: 6px 12px; border-radius: 8px; font-size: 12px; font-weight: 700; display: inline-block; width: 160px; border: 1px solid rgba(56,189,248,0.2);">🔵 Стадия проекта</span></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ---
 <div align="center" style="margin-top: 40px;">
   <span style="font-size: 12px; color: #64748b; background: #111827; padding: 8px 20px; border-radius: 50px; border: 1px solid #1e293b;">Синхронизация данных панели выполнена успешно. Последнее обновление данных: Сентябрь 2026 г.</span>
 </div>
+
+
+
