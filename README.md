@@ -83,7 +83,7 @@
     </div>
     <h3 style="margin: 0 0 10px 0; color: #ffffff; font-size: 19px; font-weight: 700;">Актуализация документации отдела</h3>
     <p style="margin: 0 0 20px 0; color: #94a3b8; font-size: 14px; line-height: 1.5;">Сбор и утверждение планов работы, оформление книги протоколов, обновление структуры сайта, регламент Совета по качеству.</p>
-    <div style="background: rgba(239,68,68,0.05); padding: 12px; border-radius: 12px; font-size: 14px; font-weight: bold; color: #ffffff; border: 1px solid rgba(239,68,68,0.2);">⚠️ Срок сдачи пакета документов: <span style="color: #ef4444;">До 30.09.2026</span></div>
+    <div style="background: rgba(239,68,68,0.05); padding: 12px; border-radius: 12px; font-size: 14px; font-weight: bold; color: #ffffff; border: 1px solid rgba(239,68,68,0.2);">⚠️ Срок сдачи пакета документов: <span style="color: #ef4444;">До 25.12.2026</span></div>
   </div>
 </div>
 
